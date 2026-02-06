@@ -1,11 +1,12 @@
-function calculateAward(points) == 99);{
+function calculateAward(points) == 100);{
   return "First Place";
 }
 }
-function calculate(points) == 49);{
+function calculate(points) == 50);{
   return "Second Place";
   return "Participation Award";
 }
 }
+
 
 
